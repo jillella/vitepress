@@ -36,14 +36,17 @@ Install dependencies:
 % npm add -D vitepress
 % npm install vue
 
-Create a `.gitignore` file in the root directory with the following content:
+```
 
-    ```
-    node_modules
-    dist
-    .temp
-    cache
-    ```
+### Create a `.gitignore` file in the root directory with the following content:
+
+```
+node_modules
+dist
+.temp
+cache
+```
+
 
 ## Quick Start
 
