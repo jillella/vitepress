@@ -47,6 +47,28 @@ dist
 cache
 ```
 
+## Folder and File Structure
+
+```
+.
+├── docs/
+│   ├── .vitepress/
+│   │   ├── config.mts
+│   │   └── theme/
+│   │       ├── index.ts
+│   │       └── style.css
+│   ├── public/
+│   │   └── (static assets)
+│   ├── components/
+│   │   └── (Vue components)
+│   ├── guide/
+│   │   └── (markdown files for guide pages)
+│   └── index.md (home page)
+├── package.json
+├── .gitignore
+└── README.md
+
+```
 
 ## Quick Start
 
