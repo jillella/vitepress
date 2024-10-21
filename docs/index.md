@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "STUDS"
   text: "Strongtie Unified Design System"
-  tagline: My great project tagline
+  tagline: Together in Design, Stronger in Function.
   actions:
     - theme: brand
       text: Markdown Examples
